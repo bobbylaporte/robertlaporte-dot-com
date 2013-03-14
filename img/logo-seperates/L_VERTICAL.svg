@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="L_VERTICAL"
+   x="0px"
+   y="0px"
+   width="100%"
+   height="100%"
+   viewBox="0 0 18.403999 46.051998"
+   enable-background="new 0 0 800 600"
+   xml:space="preserve"
+>
+<g
+   id="L_x5F_PILLAR">
+	<polygon
+   points="18.404,4.065 18.338,46.052 5.285,46.052 5.35,4.065 "
+   id="polygon3176"
+   style="fill:#e6be1e" />
+	<polygon
+   points="5.35,4.065 0.065,0 13.119,0 18.404,4.065 "
+   id="polygon3178"
+   style="fill:#e6be1e" />
+	<g
+   id="Layer_2_copy">
+		<polygon
+   points="5.35,4.065 5.285,46.052 0,41.985 0.065,0 "
+   id="polygon3181"
+   style="fill:#9d8430" />
+	</g>
+</g>
+</svg>
