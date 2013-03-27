@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <head>
-	<title>Robert LaPorte - interface builder</title>
+	<meta name='viewport' content='width=device-width initial-scale=1.0'>
+	<title>Robert LaPorte - developer | tinkerer | problem solver</title>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script type="text/javascript" src="js/bobby.js"></script>
 	<link rel="stylesheet" href="css/bobby.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="css/sprite.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
 </head>
 <body>
 	<div id="wrap">
-		<header>
-			<div id="logo" aria-hidden="true">
+		<div id="logo-wrap" aria-hidden="true">
+			<div id="logo" class="lockup">
 				<div class="inner">
 					<div id="R_BLOCK"></div>
 					<div id="R_TOP"></div>
-					<div id="L_BLOCK" class="face">
+					<div id="L_BLOCK">
 						<div class="antenna">
 							<div class="stick"></div>
 							<div class="ball"></div>
@@ -35,10 +38,25 @@
 					<div id="R_VERTICAL"></div>
 				</div>
 			</div>
-			<h1>Robert LaPorte</h1>
-			<p>interface builder</p>
-		</header>
-		<footer></footer>
+		</div>
+		<footer>
+			<h1 class="clear">Robert LaPorte</h1>
+			<ul class="nouns">
+				<li>Developer</li>
+				<li>Tinkerer</li>
+				<li>Problem Solver</li>
+			</ul>
+			<p class="clear quip">
+				I like to build web things.
+			</p>
+			<nav>
+				<ul>
+					<li><a href="index.html" class="primary"><span class="ss_sprite ss_house">Home</span></a></li>
+					<li><a href="about.html" class="primary"><span class="ss_sprite ss_user">About</span></a></li>
+					<li><a href="resume.html" class="primary"><span class="ss_sprite ss_page_white_text">Resume</span></a></li>
+				</ul>
+			</nav>
+		</footer>
 	</div>
 </body>
 </html>
